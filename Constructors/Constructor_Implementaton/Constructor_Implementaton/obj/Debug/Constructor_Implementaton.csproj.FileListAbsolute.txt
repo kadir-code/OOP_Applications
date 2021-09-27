@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\bin\Debug\Constructor_Implementaton.exe.config
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\bin\Debug\Constructor_Implementaton.exe
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\bin\Debug\Constructor_Implementaton.pdb
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.Form1.resources
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.Properties.Resources.resources
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.exe
+C:\Users\akadi\Desktop\OOP\Constructor_Implementaton\Constructor_Implementaton\obj\Debug\Constructor_Implementaton.pdb
