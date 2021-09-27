@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\OOP\Class\Class\bin\Debug\Class.exe.config
+C:\Users\akadi\Desktop\OOP\Class\Class\bin\Debug\Class.exe
+C:\Users\akadi\Desktop\OOP\Class\Class\bin\Debug\Class.pdb
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.Form1.resources
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.Properties.Resources.resources
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.exe
+C:\Users\akadi\Desktop\OOP\Class\Class\obj\Debug\Class.pdb
