@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation_Bank_User", "Encapsulation_Bank_User\Encapsulation_Bank_User.csproj", "{804E0F8C-4555-4D15-AA5E-4DF853F78214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{804E0F8C-4555-4D15-AA5E-4DF853F78214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804E0F8C-4555-4D15-AA5E-4DF853F78214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804E0F8C-4555-4D15-AA5E-4DF853F78214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804E0F8C-4555-4D15-AA5E-4DF853F78214}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BE27942-A051-4D9F-903E-3D8F12C23EA5}
+	EndGlobalSection
+EndGlobal

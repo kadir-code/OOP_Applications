@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\bin\Debug\Encapsulation_Bank_User.exe.config
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\bin\Debug\Encapsulation_Bank_User.exe
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\bin\Debug\Encapsulation_Bank_User.pdb
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.Form1.resources
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.Properties.Resources.resources
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.exe
+C:\Users\akadi\Desktop\Encapsulation\Encapsulation_Bank_User\Encapsulation_Bank_User\obj\Debug\Encapsulation_Bank_User.pdb
