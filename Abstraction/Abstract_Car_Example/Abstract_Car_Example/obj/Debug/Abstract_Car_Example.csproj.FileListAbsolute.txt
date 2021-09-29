@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.exe.config
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.exe
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.pdb
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.Form1.resources
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.Properties.Resources.resources
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.exe
+C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.pdb
