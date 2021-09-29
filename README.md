@@ -5,6 +5,18 @@ It is a model that organizes the design of software over data and objects.It all
 ### Class Concept
 It is the part where the properties and behaviors of the objects needed are kept. Determined behaviors are transferred to classes with methods. While the variables specified in the class hold the information to be used in the class; Methods define the tasks that the class will perform. An object produced in a class can be used in the whole program, and for a change to be made on the object, it is sufficient to update the class in which the object is located.
 ### Inheritance
+```
+class Vehicle 
+{
+  //Common vehicle properties
+}
+
+class Car : Vehicle 
+{
+  //Vehicle's properties
+  //Car's properties and methods
+}
+```
 It is the case that the properties of a class can also be used in a subclass.
 ### Abstraction
 It is the definition of the behavior and properties of a class.
