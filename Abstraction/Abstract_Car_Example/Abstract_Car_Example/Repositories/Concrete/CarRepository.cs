@@ -11,12 +11,15 @@ namespace Abstract_Car_Example.Repositories.Concrete
 {
     public class CarRepository : BaseCarRepository
     {
+        public override void ClearTbox(TextBox tbx, TextBox tbx2)
+        {
+            tbx.Text = String.Empty;
+            tbx2.Text = String.Empty;
+        }
+
         public override void CreateCar(string model, double price)
         {
-            Car car = new Car();
-            car.Model = model;
-            car.Price = price;
-            car.CreateTime = DateTime.Now;
+            Car car = new Car(5, model, price);
             SeedData.cars.Add(car);
         }
 
@@ -35,6 +38,18 @@ namespace Abstract_Car_Example.Repositories.Concrete
             }
         }
 
+        public override void Find(int id, TextBox tbxModel, TextBox tbxPrice)
+        {
+            foreach (Car item in SeedData.cars)
+            {
+                if (item.Id==id)
+                {
+                    tbxModel.Text = item.Model;
+                    tbxPrice.Text = item.Price.ToString();
+                }
+            }
+        }
+
         public override List<Car> GetCars()
         {
             return SeedData.cars.ToList();
@@ -42,17 +57,13 @@ namespace Abstract_Car_Example.Repositories.Concrete
 
         public override void UpdateCar(int id, string model, double price)
         {
-            Car car = new Car();
+            Car car = new Car(5, model, price);
             foreach (Car item in SeedData.cars)
             {
                 if (item.Id==id)
                 {
-                    car.Model = model;
-                    car.Price = price;
-                }
-                else
-                {
-                    MessageBox.Show("Value Not Found..!");
+                    item.Model = model;
+                    item.Price = price;
                 }
 
             }

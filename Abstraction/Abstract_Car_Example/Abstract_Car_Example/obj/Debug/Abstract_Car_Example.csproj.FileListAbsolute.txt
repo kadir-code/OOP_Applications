@@ -8,3 +8,13 @@ C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj
 C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.CoreCompileInputs.cache
 C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.exe
 C:\Users\akadi\Desktop\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.pdb
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.exe.config
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.exe
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\bin\Debug\Abstract_Car_Example.pdb
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csprojAssemblyReference.cache
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.Form1.resources
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.Properties.Resources.resources
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.GenerateResource.cache
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.csproj.CoreCompileInputs.cache
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.exe
+C:\Users\abdulkadir.erat\Desktop\OOP_Applications-main\Abstraction\Abstract_Car_Example\Abstract_Car_Example\obj\Debug\Abstract_Car_Example.pdb

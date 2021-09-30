@@ -10,11 +10,22 @@ namespace Abstract_Car_Example.Entities.Concrete
     public class Car : BaseEntity
     {
         //car entities created
-        public override int Id { get; set; }
         public string Model { get; set; }
 
         private double _price;
         public double Price { get => _price; set => _price = value; }
 
+        public Car()
+        {
+
+        }
+
+        public Car(int id, string model, double price)
+        {
+            this.Id = id;
+            this.Model = model;
+            this.Price = price;
+
+        }
     }
 }

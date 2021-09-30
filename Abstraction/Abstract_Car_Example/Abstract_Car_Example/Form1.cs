@@ -18,11 +18,7 @@ namespace Abstract_Car_Example
             InitializeComponent();
         }
 
-        void ClearTbox(TextBox tbx,TextBox tbx2)
-        {
-            tbx.Text = String.Empty;
-            tbx2.Text = String.Empty;
-        }
+       
 
         //repo that contains crud methods instantiated
         CarRepository carRepository = new CarRepository();
@@ -35,7 +31,17 @@ namespace Abstract_Car_Example
         {
             carRepository.CreateCar(textBox1.Text,Convert.ToDouble(textBox2.Text));
             dataGridView1.DataSource = carRepository.GetCars();
-            ClearTbox(textBox1,textBox2);
+           carRepository.ClearTbox(textBox1,textBox2);
+        }
+
+        private void BtnFind_Click(object sender, EventArgs e)
+        {
+            carRepository.Find(Convert.ToInt32(txtFindId.Text),txtUpdateModel,txtUpdatePrice);
+        }
+
+        private void BtnUpdate_Click(object sender, EventArgs e)
+        {
+            carRepository.UpdateCar(Convert.ToInt32(txtFindId.Text),txtUpdateModel.Text,Convert.ToDouble(txtUpdatePrice.Text));
         }
     }
 }

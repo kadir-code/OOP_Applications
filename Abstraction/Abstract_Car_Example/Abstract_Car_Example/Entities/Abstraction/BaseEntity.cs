@@ -10,10 +10,11 @@ namespace Abstract_Car_Example.Entities.Abstraction
     public abstract class BaseEntity
     {
         //base entities created
-        public abstract int Id { get; set; }
+        public int Id { get; set; }
+
 
         private DateTime _dateTime = DateTime.Now;
-        public DateTime CreateTime { get; set; }
+        public DateTime CreateTime { get => _dateTime; set => _dateTime = value; }
 
     }
 }

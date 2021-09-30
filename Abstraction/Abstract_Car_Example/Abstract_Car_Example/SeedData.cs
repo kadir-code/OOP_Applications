@@ -11,10 +11,14 @@ namespace Abstract_Car_Example
     {
         public static List<Car> cars = new List<Car>()
         {
-            new Car{Id=1,Model="bmw",Price=250.00,},
-            new Car{Id=2,Model="seat",Price=350.00},
-            new Car{Id=3,Model="fiat",Price=450.00},
-            new Car{Id=4,Model="xpr",Price=610.00},
+            new Car {Id=1, Model = "cxsdf", Price= 12.56 },
+            new Car {Id=2,Model="seat",Price=350.00},
+            new Car {Id=3,Model="fiat",Price=450.00},
+            new Car {Id=4,Model="xpr",Price=610.00},
         };
     }
 }
+
+
+
+
