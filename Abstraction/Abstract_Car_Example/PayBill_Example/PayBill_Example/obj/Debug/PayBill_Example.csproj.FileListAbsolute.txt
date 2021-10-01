@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\bin\Debug\PayBill_Example.exe.config
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\bin\Debug\PayBill_Example.exe
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\bin\Debug\PayBill_Example.pdb
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.Form1.resources
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.Properties.Resources.resources
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.exe
+C:\Users\akadi\Desktop\Abstract\PayBill_Example\PayBill_Example\obj\Debug\PayBill_Example.pdb
