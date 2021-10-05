@@ -1,0 +1,10 @@
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\bin\Debug\Library_Books_Repository.exe.config
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\bin\Debug\Library_Books_Repository.exe
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\bin\Debug\Library_Books_Repository.pdb
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.csproj.AssemblyReference.cache
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.Form1.resources
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.Properties.Resources.resources
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.exe
+C:\Users\akadi\Desktop\Library_Repository\Library_Books_Repository\Library_Books_Repository\obj\Debug\Library_Books_Repository.pdb
