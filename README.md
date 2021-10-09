@@ -44,5 +44,5 @@ It is a construct that is used for abstraction. It is used to inherit the writte
 ### Method Overriding
 A method defined in the superclass is inherited to a subclass with the same signature and parameter, but the method body is rewritten.
 * The value returned by the overridden method must be the same as the value defined in the superclass.
-* Final keyword and static methods cannot be overridden.
+* The final keyword and static methods cannot be overridden.
 
